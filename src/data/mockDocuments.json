@@ -1,0 +1,282 @@
+[
+  {
+    "id": "doc1",
+    "title": "Q4 Growth Strategy",
+    "content": "Outlines paid campaigns, influencer outreach, and organic tactics for Q4 performance boost.",
+    "team": "Growth",
+    "project": "LaunchX",
+    "tags": ["strategy", "campaign", "Q4"]
+  },
+  {
+    "id": "doc2",
+    "title": "Design Guidelines for Rebrand",
+    "content": "Typography, color palette, and layout rules for Rebrand2025 rollout.",
+    "team": "Design",
+    "project": "Rebrand2025",
+    "tags": ["design", "branding", "guidelines"]
+  },
+  {
+    "id": "doc3",
+    "title": "Product Messaging Framework",
+    "content": "Consistent messaging templates for product pages, ads, and social media.",
+    "team": "Product",
+    "project": "LaunchX",
+    "tags": ["messaging", "framework", "copywriting"]
+  },
+  {
+    "id": "doc4",
+    "title": "Email Campaign Calendar",
+    "content": "Schedule of email blasts for Q3 and Q4 segmented by audience type.",
+    "team": "Growth",
+    "project": "RetentionBoost",
+    "tags": ["email", "calendar", "segmentation"]
+  },
+  {
+    "id": "doc5",
+    "title": "Landing Page Audit",
+    "content": "Review of conversion metrics and UX issues across top-performing pages.",
+    "team": "Design",
+    "project": "ConversionLab",
+    "tags": ["audit", "UX", "conversion"]
+  },
+  {
+    "id": "doc6",
+    "title": "Competitor Pricing Snapshot",
+    "content": "Weekly scrape of competitor pricing across core SKUs.",
+    "team": "Product",
+    "project": "MarketIntel",
+    "tags": ["pricing", "competitor", "snapshot"]
+  },
+  {
+    "id": "doc7",
+    "title": "Social Listening Summary",
+    "content": "Sentiment breakdown and trending topics from Twitter and Reddit.",
+    "team": "Growth",
+    "project": "BrandPulse",
+    "tags": ["social", "sentiment", "trends"]
+  },
+  {
+    "id": "doc8",
+    "title": "Visual Identity Brief",
+    "content": "Moodboards and visual direction for upcoming campaign assets.",
+    "team": "Design",
+    "project": "Rebrand2025",
+    "tags": ["visual", "identity", "brief"]
+  },
+  {
+    "id": "doc9",
+    "title": "Customer Persona Deck",
+    "content": "Slides outlining key personas based on recent survey data.",
+    "team": "Product",
+    "project": "PersonaSync",
+    "tags": ["persona", "survey", "deck"]
+  },
+  {
+    "id": "doc10",
+    "title": "Paid Media Budget Tracker",
+    "content": "Live spreadsheet tracking spend across channels and campaigns.",
+    "team": "Growth",
+    "project": "LaunchX",
+    "tags": ["budget", "media", "tracker"]
+  },
+  {
+    "id": "doc11",
+    "title": "Brand Voice Guidelines",
+    "content": "Tone, vocabulary, and examples for consistent brand communication.",
+    "team": "Product",
+    "project": "Rebrand2025",
+    "tags": ["voice", "tone", "communication"]
+  },
+  {
+    "id": "doc12",
+    "title": "A/B Test Results: CTA Buttons",
+    "content": "Performance comparison of CTA styles across landing pages.",
+    "team": "Design",
+    "project": "ConversionLab",
+    "tags": ["A/B test", "CTA", "results"]
+  },
+  {
+    "id": "doc13",
+    "title": "Influencer Outreach List",
+    "content": "Curated list of micro and macro influencers for Q4 campaigns.",
+    "team": "Growth",
+    "project": "BrandPulse",
+    "tags": ["influencer", "outreach", "Q4"]
+  },
+  {
+    "id": "doc14",
+    "title": "Product Launch Checklist",
+    "content": "Step-by-step checklist for internal and external launch readiness.",
+    "team": "Product",
+    "project": "LaunchX",
+    "tags": ["launch", "checklist", "readiness"]
+  },
+  {
+    "id": "doc15",
+    "title": "Design Asset Inventory",
+    "content": "Centralized list of logos, icons, and templates for team use.",
+    "team": "Design",
+    "project": "AssetHub",
+    "tags": ["inventory", "assets", "templates"]
+  }, 
+  {
+    "id": "doc16",
+    "title": "UX Research Summary",
+    "content": "Findings from usability tests and interviews across three user segments.",
+    "team": "Design",
+    "project": "UserScope",
+    "tags": ["UX", "research", "usability"]
+  },
+  {
+    "id": "doc17",
+    "title": "Sprint Retrospective Notes",
+    "content": "Team reflections and action items from the last sprint cycle.",
+    "team": "Product",
+    "project": "AgileOps",
+    "tags": ["retrospective", "sprint", "agile"]
+  },
+  {
+    "id": "doc18",
+    "title": "Customer Feedback Log",
+    "content": "Compiled feedback from support tickets and NPS surveys.",
+    "team": "Growth",
+    "project": "EchoDesk",
+    "tags": ["feedback", "customer", "NPS"]
+  },
+  {
+    "id": "doc19",
+    "title": "Security Audit Report",
+    "content": "Vulnerability scan results and remediation checklist.",
+    "team": "Product",
+    "project": "SecurePath",
+    "tags": ["security", "audit", "remediation"]
+  },
+  {
+    "id": "doc20",
+    "title": "Team Onboarding Guide",
+    "content": "Step-by-step onboarding process for new hires.",
+    "team": "Design",
+    "project": "PeopleFirst",
+    "tags": ["onboarding", "guide", "HR"]
+  },
+  {
+    "id": "doc21",
+    "title": "Legal Compliance Checklist",
+    "content": "Checklist for GDPR, CCPA, and internal data policies.",
+    "team": "Product",
+    "project": "LawBridge",
+    "tags": ["legal", "compliance", "data"]
+  },
+  {
+    "id": "doc22",
+    "title": "Remote Work Playbook",
+    "content": "Best practices and tools for distributed teams.",
+    "team": "Growth",
+    "project": "FlexForce",
+    "tags": ["remote", "workflow", "tools"]
+  },
+  {
+    "id": "doc23",
+    "title": "Newsletter Drafts",
+    "content": "Drafts for upcoming monthly newsletters segmented by audience.",
+    "team": "Design",
+    "project": "MailNest",
+    "tags": ["newsletter", "drafts", "email"]
+  },
+  {
+    "id": "doc24",
+    "title": "Bug Triage Sheet",
+    "content": "Priority matrix and assignment log for open bugs.",
+    "team": "Product",
+    "project": "FixTrack",
+    "tags": ["bugs", "triage", "priority"]
+  },
+  {
+    "id": "doc25",
+    "title": "Feature Prioritization Matrix",
+    "content": "Weighted scoring model for upcoming feature proposals.",
+    "team": "Growth",
+    "project": "LaunchLogic",
+    "tags": ["features", "prioritization", "scoring"]
+  },
+  {
+    "id": "doc26",
+    "title": "Ad Campaign Brief",
+    "content": "Creative direction and targeting strategy for paid ads.",
+    "team": "Design",
+    "project": "AdNova",
+    "tags": ["ads", "campaign", "brief"]
+  },
+  {
+    "id": "doc27",
+    "title": "Mobile UX Heuristics",
+    "content": "Checklist for evaluating mobile app usability.",
+    "team": "Product",
+    "project": "TapSense",
+    "tags": ["mobile", "UX", "heuristics"]
+  },
+  {
+    "id": "doc28",
+    "title": "Quarterly Budget Plan",
+    "content": "Forecast and allocation for Q1 departmental budgets.",
+    "team": "Growth",
+    "project": "LedgerLine",
+    "tags": ["budget", "forecast", "Q1"]
+  },
+  {
+    "id": "doc29",
+    "title": "Internal Comms Strategy",
+    "content": "Messaging cadence and channel plan for internal updates.",
+    "team": "Design",
+    "project": "PulsePoint",
+    "tags": ["communication", "internal", "strategy"]
+  },
+  {
+    "id": "doc30",
+    "title": "Web Analytics Dashboard",
+    "content": "Live dashboard tracking traffic, bounce rate, and conversions.",
+    "team": "Product",
+    "project": "MetricMind",
+    "tags": ["analytics", "dashboard", "web"]
+  },
+  {
+    "id": "doc31",
+    "title": "User Persona Profiles",
+    "content": "Detailed profiles based on behavioral and demographic data.",
+    "team": "Growth",
+    "project": "PersonaLab",
+    "tags": ["persona", "profiles", "data"]
+  },
+  {
+    "id": "doc32",
+    "title": "Growth Experiment Tracker",
+    "content": "Log of A/B tests and growth experiments with outcomes.",
+    "team": "Design",
+    "project": "ScalePilot",
+    "tags": ["growth", "experiments", "A/B"]
+  },
+  {
+    "id": "doc33",
+    "title": "API Integration Guide",
+    "content": "Steps for integrating third-party APIs with our backend.",
+    "team": "Product",
+    "project": "DevLink",
+    "tags": ["API", "integration", "backend"]
+  },
+  {
+    "id": "doc34",
+    "title": "Team OKRs",
+    "content": "Objectives and key results for Q2 across departments.",
+    "team": "Growth",
+    "project": "GoalTrack",
+    "tags": ["OKRs", "objectives", "Q2"]
+  },
+  {
+    "id": "doc35",
+    "title": "Campaign Performance Report",
+    "content": "Metrics and insights from the latest ad campaigns.",
+    "team": "Design",
+    "project": "AdNova",
+    "tags": ["campaign", "performance", "metrics"]
+  }
+]
